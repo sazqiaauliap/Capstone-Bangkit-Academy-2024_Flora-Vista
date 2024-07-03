@@ -1,0 +1,15 @@
+{
+  "name": "my-plant-tips-api",
+  "version": "1.0.0",
+  "description": "REST API to fetch plant tips and guides",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0"
+  }
+}
